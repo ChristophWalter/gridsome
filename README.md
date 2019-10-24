@@ -1,3 +1,5 @@
+# This fork enables gridsome to be used as vue-cli plugin ([Feature Request](https://github.com/gridsome/gridsome/issues/597))
+
 <p align="center">
   <br>
   <a href="https://www.gridsome.org">
